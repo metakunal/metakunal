@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/metakunal" target="blank"><img src="https://img.shields.io/twitter/follow/metakunal?logo=twitter&style=for-the-badge" alt="metakunal" /></a> </p>
 
-- 🔭 I’m currently working on [Web-Photoshop](https://github.com/metakunal/Web-Photoshop)
+- 🔭 I’m currently working on [Web-Photoshop](https://metakunal.github.io/editimgweb/)
 
 - 🌱 I’m currently learning **react.**
 
