@@ -3,12 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/metakunal" target="blank"><img src="https://img.shields.io/twitter/follow/metakunal?logo=twitter&style=for-the-badge" alt="metakunal" /></a> </p>
 
-- 🔭 I’m currently working on [Web-Photoshop](https://metakunal.github.io/editimgweb/)
-
-- 🌱 I’m currently learning **react.**
-
-- 💬 Ask me about **Jquery.**
-
 - 📫 How to reach me **kunal99356@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
